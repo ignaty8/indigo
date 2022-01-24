@@ -4,7 +4,7 @@
    ========================================================================== */
 
 
-   @mixin background($imgpath,$position:0 0,$repeat: no-repeat) {
+   @mixin background($imgpath,$position:0 0,$repeat: repeat) {
     background: {
       image: url($imgpath);
       position: $position;

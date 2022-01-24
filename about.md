@@ -20,6 +20,13 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="arcticfarming.fi">Arctic Farming - Autonomous Vertical Farming 🧑‍🌾</a></li>
+	<li><a href="dlteo.com">DLTEO - Blockchain Decentralised Earth Observation Data Processing 🖥️🛰️🌍</a></li>
+</ul>
+
+<h2>Companies I've worked for</h2>
+
+<ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
