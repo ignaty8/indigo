@@ -2,6 +2,8 @@
     <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9d60aa1-a0a9-4bd4-8ac6-2b88412265e5/deploy-status)](https://app.netlify.com/sites/sleepy-chandrasekhar-6d612d/deploys)
+
 <p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
 
 ***
