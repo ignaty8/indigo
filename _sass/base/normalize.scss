@@ -20,7 +20,7 @@
  html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
-	@include background('/assets/images/bg2.jpg');
+	@include background('/assets/images/bg2.jpg', center 0);
 }
 
 /* Sections
