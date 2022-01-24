@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Ignaty Romanov-Chernigovsky
+bio: Per Scientia, ad Astra
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Houston, we are go for Launch!
 
 # if it's an external image, update below for true
 # better with square images
@@ -15,7 +15,7 @@ dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: ignaty-romanov-chernigovsky-07201a107
+github: ignaty8
+#email: ignaty8@gmail.com
 
 authors:
   johndoe:
@@ -57,7 +57,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -72,7 +72,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
