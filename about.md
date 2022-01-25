@@ -20,14 +20,14 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Arctic Farming - Autonomous Vertical Farming 🧑‍🌾</a></li>
-	<li><a href="https://dlteo.com" target="_blank" rel="noopener noreferrer">DLTEO - Blockchain Decentralised Earth Observation Data Processing 🖥️🛰️🌍</a></li>
+	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Arctic Farming - Autonomous Vertical Farming</a> 🧑‍🌾</li>
+	<li><a href="https://dlteo.com" target="_blank" rel="noopener noreferrer">DLTEO - Blockchain Decentralised Earth Observation Data Processing</a> 🖥️🛰️🌍</li>
 </ul>
 
 <h2>Companies I've worked for</h2>
 
 <ul>
-	<li><a href="https://spinintech.com/" target="_blank" rel="noopener noreferrer">SPiN 🛰️🖥️</a></li>
-	<li><a href="https://cloudimperiumgames.com/" target="_blank" rel="noopener noreferrer">Cloud Imperium Games 🎮🚀</a></li>
-	<li><a href="https://terma.com/" target="_blank" rel="noopener noreferrer">Terma 🛰️🌍</a></li>
+	<li><a href="https://spinintech.com/" target="_blank" rel="noopener noreferrer">SPiN</a> 🛰️🖥️</li>
+	<li><a href="https://cloudimperiumgames.com/" target="_blank" rel="noopener noreferrer">Cloud Imperium Games</a> 🎮🚀</li>
+	<li><a href="https://terma.com/" target="_blank" rel="noopener noreferrer">Terma</a> 🛰️🌍</li>
 </ul>
