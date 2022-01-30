@@ -6,8 +6,6 @@ layout: page
 
 <p>A British Space Software Engineer (MSci) with multiple years of experience at the forefront of the space industry. Recently working as an Embedded Software Developer creating avionics and involved in the technology development at multiple high-tech startups, with interests in Earth Observation, Blockchain, Hydroponics, Automation, Artificial Intelligence and Spaceflight.</p>
 
-<p>Watch this space for more details 🚀🛰️👩‍🚀🌑</p>
-
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -31,3 +29,5 @@ layout: page
 	<li><a href="https://cloudimperiumgames.com/" target="_blank" rel="noopener noreferrer">Cloud Imperium Games</a> 🎮🚀</li>
 	<li><a href="https://terma.com/" target="_blank" rel="noopener noreferrer">Terma</a> 🛰️🌍</li>
 </ul>
+
+<p>Watch this space for more details 🚀🛰️👩‍🚀🌑</p>
