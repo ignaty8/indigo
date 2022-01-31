@@ -10,10 +10,16 @@ layout: page
 
 <ul class="skill-list">
 	<li>Space Systems Engineering</li>
+	<li>Public Speaking</li>
 	<li>Embedded C/C++</li>
 	<li>Python</li>
 	<li>RTOS</li>
-	<li>Public Speaking</li>
+	<li>Avionics Development</li>
+	<li>Development under ECSS</li>
+	<li>Earth Observation Data Handling</li>
+	<li>Structural Prototyping with CAD</li>
+	<li>FEM Simulation</li>
+	<li>PCB Prototyping</li>
 </ul>
 
 <h2>Current Projects</h2>
