@@ -13,16 +13,17 @@ layout: page
 	<li>Embedded C/C++</li>
 	<li>Python</li>
 	<li>RTOS</li>
+	<li>Public Speaking</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Current Projects</h2>
 
 <ul>
 	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Arctic Farming - Autonomous Vertical Farming</a> 🧑‍🌾</li>
 	<li><a href="https://dlteo.com" target="_blank" rel="noopener noreferrer">DLTEO - Blockchain Decentralised Earth Observation Data Processing</a> 🖥️🛰️🌍</li>
 </ul>
 
-<h2>Companies I've worked for</h2>
+<h2>Other companies I've worked for</h2>
 
 <ul>
 	<li><a href="https://spinintech.com/" target="_blank" rel="noopener noreferrer">SPiN</a> 🛰️🖥️</li>
