@@ -1,5 +1,6 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">Source code for my website, <a href="https://ignaty.space">ignaty.space</a></h2>
+    <h2 align="center">Forked from: Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
 </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d9d60aa1-a0a9-4bd4-8ac6-2b88412265e5/deploy-status)](https://app.netlify.com/sites/sleepy-chandrasekhar-6d612d/deploys)
@@ -23,7 +24,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="https://https://ignaty.space/assets/screen-shot.png" />
 </p>
 
 ## What has inside
