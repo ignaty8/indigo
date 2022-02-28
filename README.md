@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <img src="https://https://ignaty.space/assets/screen-shot.png" />
+    <img src="https://ignaty.space/assets/screen-shot.png" />
 </p>
 
 ## What has inside
