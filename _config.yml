@@ -9,6 +9,7 @@ description: Houston, we are go for Launch! 🚀
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+picture-big: assets/images/profile2.jpg
 
 # your site color theme, false to light theme
 dark-theme: true
@@ -47,6 +48,7 @@ authors:
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
+    picture-big: assets/images/facepic2.3.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
