@@ -10,11 +10,11 @@ layout: page
 
 <ul class="skill-list">
 	<li>Space Systems Engineering</li>
+	<li>Engineering Project Management</li>
 	<li>Public Speaking</li>
 	<li>Embedded C/C++</li>
 	<li>Scientific Python</li>
 	<li>Rust Smart Contract Development</li>
-	<li>Python</li>
 	<li>RTOS</li>
 	<li>Cubesat Avionics Development</li>
 	<li>Development under ECSS</li>
@@ -27,7 +27,7 @@ layout: page
 <h2>Current Projects</h2>
 
 <ul>
-	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Arctic Farming - Autonomous Vertical Farming Appliances</a> 🧑‍🌾</li>
+	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Autonomous Vertical Farming Appliances on Earth and in Space</a> 🧑‍🌾👾</li>
 </ul>
 
 <h2>Other companies I've worked for</h2>
