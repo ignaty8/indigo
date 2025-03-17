@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture-big }}{% endif %})
 
-<p>A British Space Software Engineer (MSci) with multiple years of experience at the forefront of the space industry. Working as Head of Software at Arctic Farming, bringing space technology to the food and agricultural sectors. Current experience includes Earth Observation, Blockchain, Hydroponics, Automation, Artificial Intelligence and Human Spaceflight.</p>
+<p align="justify">A British Space Software Engineer (MSci) and Entrepreneur with multiple years of experience at the forefront of the industry. Working as CTO and Embedded Software and Hardware Engineer with autonomous vertical farming systems in Finland and involved in the technology development at multiple European high-tech startups, with projects in Green Tech, Electric Aviation, Human Spaceflight, Controlled Environment Agriculture, Blockchain, Artificial Intelligence and Earth Observation.</p>
 
 <h2>Skills</h2>
 
