@@ -27,7 +27,7 @@ layout: page
 <h2>Current Projects</h2>
 
 <ul>
-	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Autonomous Vertical Farming Appliances on Earth and in Space</a> 🧑‍🌾👾</li>
+	<li><a href="https://arcticfarming.fi" target="_blank" rel="noopener noreferrer">Arctic Farming / Plantui - Autonomous Vertical Farming Appliances on Earth and in Space</a> 🧑‍🌾👾</li>
 </ul>
 
 <h2>Other companies I've worked for</h2>
