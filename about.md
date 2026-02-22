@@ -22,7 +22,7 @@ layout: page
 <h2>Current Projects</h2>
 
 <ul>
-	<li><a href="https://ackinacki.com/" target="_blank" rel="noopener noreferrer">Senior Rust Developer - Acki-Nacki Blockchain - WASM-based Virtual Machine for Smart Contract Execution on a High-Performance Blockchain</a> 🖥️🕸️🖥️</li>
+	<li>Senior Rust Developer - <a href="https://ackinacki.com/" target="_blank" rel="noopener noreferrer">Acki-Nacki Blockchain - WASM-based Virtual Machine for Smart Contract Execution on a High-Performance Blockchain</a> 🦀🖥️🦀🖥️🦀</li>
 </ul>
 
 <h2>Other companies I've worked for</h2>
